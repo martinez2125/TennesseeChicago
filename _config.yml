@@ -1,8 +1,8 @@
-title: MinDoc Template # You will insert your title here.
-email: your-email@example.com
-description: by Authors # Author names go here.
+title: From Tennessee to Chicago # You will insert your title here.
+email: cmill101@illinois.edu, lmart219@illinois.edu
+description: by Caden Miller and Lesly Martinez # Author names go here.
 
-baseurl: "/MinDoc" # the subpath of your site. Change it if the name of your repository is other than "mindoc"
+baseurl: "/TennesseeChicago" # the subpath of your site. Change it if the name of your repository is other than "mindoc"
 
 twitter_username: jekyllrb
 github_username:  jekyll
