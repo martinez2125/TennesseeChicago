@@ -4,7 +4,7 @@ layout: single_page
 
 {% assign media = site.mindoc_media | where: "page", "source" | sort: "order" %}
 
-# From Tennesee to Chicago
+# Introduction
 
 Word count: 250–450 words
 
