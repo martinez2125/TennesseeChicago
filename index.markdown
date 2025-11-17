@@ -29,6 +29,15 @@ Here and throughout your edition, you should use footnotes in Chicago Notes and 
 
 # The Source
 
+Sample:
+Entering The Work Force
+
+
+My working career started in May 1943, I had just turned 16 and immediately went to my high school counselor and got my working permit. I applied at a few different places, Alden's (a competitor of Sears) hired me and I was so excited - I was hired as a clerk and would be earning 12 ½ cents an hour (Wow!). Alden's was located on Grand Avenue, just a block west of Harlem Avenue, on the north side of the street - where Goldblatt's eventually took over. Would you believe, I was there only 2 days when Montgomery Ward's called and asked me to work there. I was so excited that I told Alden's I was quitting- after all, Montgomery Wards offered to double my wages - I would be earning 25 cents an hour. (Ward's was located on Grand Avenue, exactly across the street from Alden’s) Yippee!
+
+
+Life at Montgomery Ward's was not so glamorous! The first week they had me dusting, cleaning, and watering their house plants. They had live houseplants in the middle of the store. The plants were in individual pots, but they must have been planted in "pop-up" soil, as there was more dirt and mud outside and around the plants than there was inside the pots. The dirt must have been a good inch deep around the base of all the pots. - Yuck! They did not give me any tools to work with; so I improvised with cardboard, etc. Naturally I fell back on Mother Nature's gifts to me, my fingernails. I would spend hours at night soaking and cleaning my hands, and repairing my broken and dirty nails. I was very unhappy; but the worst was yet to come!!!!!!!!!!
+
 This section provides the main presentation of your source, as you have prepared it for readers (i.e., a facsimile, transcription, video, audio clip, etc.). This section is where we satisfy the first of the ADE’s three criteria for an electronic edition by providing a rigorous, accurate presentation of historical material.
 
 For the presentation of some sources, it may make sense to break up the presentation into multiple pages. For that, as needed, we can use a more book like template (binding multiple pages together) that I can provide. Nonetheless, this page should be the page from which all presentations of the source itself start.
