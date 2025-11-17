@@ -46,6 +46,8 @@ This may also be a space where editorial annotations are provided, such as notes
 
 Please note: some presentations may benefit from a multipage format (rather than one scrolling page, as here). I can make a multipage template available to you as needed.
 
+{% include media_next.html pages=media %}
+
 # About this Source
 
 Word count: 1000 words (excluding footnotes)
