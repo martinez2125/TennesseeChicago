@@ -41,16 +41,10 @@ Family Papers of Alma Hilton Marsells, Collection of the Author (Caden J. Miller
 Evans, Tanya. 2011. “Secrets and Lies: The Radical Potential of Family History.” History Workshop Journal 71 (71): 49
 > –73. https://www.jstor.org/stable/41306811.
 
-Hilton, James L. 1998. Hiltons of Scott County, Virginia.
-
-
-Hilton. "Our Families" (Binder)
-
-
-Lichtman, Allan J. 1978. Your Family History. Vintage.
-
-
-Linder, Billy Royce. 1978. How to Trace Your Family History. New York : Everest House.
+Hilton, James L. 1998. Hiltons of Scott County, Virginia.  
+Hilton. "Our Families" (Binder)  
+Lichtman, Allan J. 1978. Your Family History. Vintage.  
+Linder, Billy Royce. 1978. How to Trace Your Family History. New York : Everest House.  
 
 Mamie Mackie (New York Mills, MN) Family History. 1940-1981. Available through: Adam Matthew, Marlborough, 
 > Migration to New Worlds, http://www.migration.amdigital.co.uk.proxy2.library.illinois.edu/Documents/Details/IHRCA_1560_04_mackie. 
