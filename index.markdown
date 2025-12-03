@@ -43,9 +43,12 @@ Evans, Tanya. 2011. “Secrets and Lies: The Radical Potential of Family History
 
 Hilton, James L. 1998. Hiltons of Scott County, Virginia.
 
+
 Hilton. "Our Families" (Binder)
 
+
 Lichtman, Allan J. 1978. Your Family History. Vintage.
+
 
 Linder, Billy Royce. 1978. How to Trace Your Family History. New York : Everest House.
 
