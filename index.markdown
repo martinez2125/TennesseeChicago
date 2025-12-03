@@ -67,18 +67,9 @@ The target length of this section is about 1000 words, exclusive of notes. It sh
 
 # About this Edition
 
-This section should state the principles and choices that guided your editorial work. It helps satisfy the last of the ADE’s criteria, by explaining to readers just how you produced the copy of the source presented here.
+    The authors of this edition have formatted, organized, and edited the materials included within in a manner which is both intended to convey and represent the original style, nature, and physical characteristics of said materials as they are presented in their original form, while also making efforts to increase the usability and accessibility of the works through the implementation of a streamlined and comprehensive format throughout. Special attention has been given to both preserving unique qualities of the primary sources—such as photographic arrangements, irregular templating, and original sequencing—as well as the cleaning up of certain spelling, punctuational, and formatting errors if deemed as potentially inhibiting the legibility or clarity/flow of the texts while not detracting from the integrity or “personality” of said original works. It should be noted by the reader that the contents of this multimedia edition (photographs, letters, genealogical ID pages, scrapbook/album components, & digitally typed and scanned transcriptions) are included together here as a grouping both due to the fact that they are contained in one singular assembled binder, as well as their similar and related subject matter. Typed transcriptions were edited and formatted with the help of both Google Docs and Adobe Acrobat. Careful review was conducted to ensure that digital transcriptions created for this edition did not stray from or alter the original characteristics and integrity of the typed documents.
 
-This section should answer such questions as:
-
-    What original artifacts or copies of original artifacts were used in the making of your edition? 
-    Where may they be found today? What is their catalog or other identifying number (DOI, URL) there?
-    What procedures and technologies did you use in making your presentation of this artifact?
-    Why did you choose them? Are there any limitations of this method that readers should be aware of?
-    How did you produce transcriptions (if any)?
-    What kinds of alterations or emendations (if any) have you made? How are they noted?
-
-There is no target word count for this section, as the emphasis here is on maximum precision and clarity.  Be as brief and to the point as you can.
+    Furthermore, it should be made clear that the collection of documents and sources included and presented here as part of this edition make up just a limited portion of extant components of this genealogical archive amassed by the Hilton and Marsells families and their subsequent branches, and have been selected both due to their value in representing a wide scope of the greater collection, as well as the nature in which this small assemblage of articles has been compiled, allowing it to be used as a tool to help indicate both the methods utilized in this particular period of family recordkeeping and the individuals who took part in it. With this in mind, make note that additional information from said greater archive may be conveyed through the use of supplementary footnotes to aid in context. Finally, it should be made clear that judgements of the parameters and extent of this edition were ultimately left to be decided upon by its authors, and are derived from said authors’ most neutral and objective considerations on the basis of preservation, clarity, and consistency.
 
 # Supplements
 
