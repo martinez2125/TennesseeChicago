@@ -33,25 +33,27 @@ Furthermore, it should be made clear that the collection of documents and source
 # Supplements
 
 # Bibliography
-Aaron, L. 1992. “Using Genealogy to Teach History.” OAH Magazine of History 6 (3): 5–7. https://doi.org/10.1093/maghis/6.3.5.
+Aaron, L. 1992. “Using Genealogy to Teach History.” OAH Magazine of History 6 (3): 5–7. 
+> https://doi.org/10.1093/maghis/6.3.5.
 
 Family Papers of Alma Hilton Marsells, Collection of the Author (Caden J. Miller), Champaign, IL.
 
-Evans, Tanya. 2011. “Secrets and Lies: The Radical Potential of Family History.” History Workshop Journal 71 (71): 49–73. https://www.jstor.org/stable/41306811.
+Evans, Tanya. 2011. “Secrets and Lies: The Radical Potential of Family History.” History Workshop Journal 71 (71): 49
+> –73. https://www.jstor.org/stable/41306811.
 
 Hilton, James L. 1998. Hiltons of Scott County, Virginia.
-
 Hilton. "Our Families" (Binder) 
-
 Lichtman, Allan J. 1978. Your Family History. Vintage.
-
 Linder, Billy Royce. 1978. How to Trace Your Family History. New York : Everest House.
 
-Mamie Mackie (New York Mills, MN) Family History. 1940-1981. Available through: Adam Matthew, Marlborough, Migration to New Worlds, http://www.migration.amdigital.co.uk.proxy2.library.illinois.edu/Documents/Details/IHRCA_1560_04_mackie. 
+Mamie Mackie (New York Mills, MN) Family History. 1940-1981. Available through: Adam Matthew, Marlborough, 
+> Migration to New Worlds, http://www.migration.amdigital.co.uk.proxy2.library.illinois.edu/Documents/Details/IHRCA_1560_04_mackie. 
 
-Mattinen, Bernice Juntunen. 1982-1983. Juntunen-Mattinen Family History [Folder 1]. Available through: Adam Matthew, Marlborough, Migration to New Worlds, http://www.migration.amdigital.co.uk.proxy2.library.illinois.edu/Documents/Details/IHRCA_1560_02_juntunen-mattinen_01. 
+Mattinen, Bernice Juntunen. 1982-1983. Juntunen-Mattinen Family History [Folder 1]. Available through: Adam 
+> Matthew, Marlborough, Migration to New Worlds, http://www.migration.amdigital.co.uk.proxy2.library.illinois.edu/Documents/Details/IHRCA_1560_02_juntunen-mattinen_01. 
 
-Rhoads, James B. 1979. “The Importance of Family History to Our Society.” The Public Historian 1 (3): 6–16. https://doi.org/10.2307/3377529.
+Rhoads, James B. 1979. “The Importance of Family History to Our Society.” The Public Historian 1 (3): 6–16. 
+> https://doi.org/10.2307/3377529.
 
 # Credits and Acknowledgments
 
