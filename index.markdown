@@ -15,11 +15,17 @@ The way in which one compiles tangible components of their past is very telling 
 The contributions to this archive, a very small component of which is actually included in this edition for the sake of clarity and organization, are incredibly valuable in keeping the memories of those mentioned in its many pages and depicted in its many photographs alive. The retention of loose fragments of our pasts and personal histories is important for both preserving the memory of those who came before us, our forebears who toiled and sacrificed to help get us where we are today, and to give our descendants and those who come after us the same opportunity, to help bridge the generational gap; between past, present, and future for posterity and into perpetuity. A quote especially favored by Alma which is especially telling of her sentimental, kindhearted motivations and intentions behind her work and holds true even after her passing goes as follows:
 
 “In one sense there is no death.
+
 The life of a soul on earth lasts beyond his departure.
+
 You will always feel that life touching yours,
+
 that voice speaking to you, talking to you in the familiar things he touched, 
+
 worked with, loved as familiar friends.
+
 He lives on in your life and in the lives of all others that knew him.”
+
 
 —Angelo Patri
 
