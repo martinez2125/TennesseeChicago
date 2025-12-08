@@ -31,7 +31,7 @@ The contributions to this archive, a very small component of which is actually i
 
 
 **How to Cite:**
-> Miller, Caden, Martinez, Lesly. "From Tennnessee to Chicago." Published December 10, 2025. <https://martinez2125.github.io/TennesseeChicago/>
+> Miller, Caden J., Martinez, Lesly. "From Tennnessee to Chicago." Published December 10, 2025. <https://martinez2125.github.io/TennesseeChicago/>
 
 # The Source
 
